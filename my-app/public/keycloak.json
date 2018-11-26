@@ -1,0 +1,8 @@
+{
+    "realm": "iw-no-test",
+    "auth-server-url": "https://devrhsso.intrum.net/auth",
+    "ssl-required": "external",
+    "resource": "customer-web",
+    "public-client": true,
+    "confidential-port": 0
+  } 
